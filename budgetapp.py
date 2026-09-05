@@ -87,7 +87,7 @@ def create_spend_chart(categories):
         percentage = int((spent / total_spent) * 100)
         percentage = (percentage // 10) * 10
         percentages.append(percentage)
-
+    #Report chart
     # Start building the chart
     chart = "Percentage spent by category\n"
 
