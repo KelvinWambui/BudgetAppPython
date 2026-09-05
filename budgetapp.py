@@ -1,3 +1,4 @@
+# a small budget appt track expenses and deposits
 class Category:
     def __init__(self,name):
         self.ledger=[]
