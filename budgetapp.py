@@ -1,4 +1,4 @@
-# a small budget appt track expenses and deposits for github
+# a small budget appt track expenses and deposits
 # Class Category
 class Category:
     def __init__(self,name):
