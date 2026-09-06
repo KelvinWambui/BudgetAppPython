@@ -127,3 +127,5 @@ def create_spend_chart(categories):
     return chart
 
 #practicing git pull
+
+# Expense summary feature is being developed
