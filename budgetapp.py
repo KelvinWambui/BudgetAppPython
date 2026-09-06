@@ -1,9 +1,7 @@
 # a small budget appt track expenses and deposits
-<<<<<<< HEAD
+
 # Managing Budget Categories
-=======
 # Budget app Category management
->>>>>>> feature/conflict
 class Category:
     def __init__(self,name):
         self.ledger=[]
@@ -128,3 +126,4 @@ def create_spend_chart(categories):
 
     return chart
 
+#practicing git pull
